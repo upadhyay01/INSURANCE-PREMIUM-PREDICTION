@@ -15,15 +15,7 @@ a) Decision tree Regressor
 b) Gradient Boosting Regressor
 c) Random forest Regressor
       
-5) Deployment : Once the best algorithm is choosen, our Flask main file which is the application.py file will be called to test our API endpoints in the developing environment. It'll act as the central configuration object for the entire application usually setting up the pieces of the application required for extended functionality. We have run this web application on our local machine as well as on AWS cloud plateform.
  
-# Deployment Link 
-
-http://inspremium-env.eba-tgvagk8w.ap-northeast-1.elasticbeanstalk.com/
-
-# Youtube Demo Link
-
-https://www.youtube.com/watch?v=PqnFhR-wa40&t=375s
 
 # User Interface
 ![Screen Shot 2022-10-02 at 12 18 10 PM](https://user-images.githubusercontent.com/105154630/193457579-64e91cf7-22f4-4baf-9ec2-7b0806fe778a.png)
@@ -40,4 +32,4 @@ https://www.youtube.com/watch?v=PqnFhR-wa40&t=375s
 8) Pandas, Numpy 
 9) Seaborn , Matplotlib
 10) Cassandra Database
-11) AWS Cloud Plateform
+
